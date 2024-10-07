@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Development,DSA
 - 💞️ I’m looking to collaborate on various open source contributions
 - 📫 How to reach me LinkedIn www.linkedin.com/in/anshika-pal-9b5a48255
-- 😄 Pronouns: ...
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
