@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshikapal05                                                                                      ![image](https://github.com/user-attachments/assets/7b29179a-aca5-46ef-863f-a30bfc01cada)
+- 👋 Hi, I’m @Anshikapal05                                                                                     
 
 - 👀 I’m interested in Coding,Web Development
 - 🌱 I’m currently learning Development,DSA and open-source too..
