@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Anshikapal05
+- 👋 Hi, I’m @Anshikapal05                                                                                      ![image](https://github.com/user-attachments/assets/7b29179a-aca5-46ef-863f-a30bfc01cada)
+
 - 👀 I’m interested in Coding,Web Development
 - 🌱 I’m currently learning Development,DSA and open-source too..
 - 💞️ I’m looking to collaborate on various open source contributions
@@ -10,4 +11,4 @@
 Anshikapal05/Anshikapal05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/b905dfde-8607-46b8-8660-278c41c079a5)
+
